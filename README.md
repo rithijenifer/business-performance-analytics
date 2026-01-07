@@ -34,5 +34,15 @@ information. The dataset does not include cost or profit metrics.
 - Focus on high-performing regions and customers for retention strategies.
 - Optimize inventory and promotions based on seasonal demand patterns.
 - Integrate cost data to enable margin and profitability analysis.
+## Power BI Dashboard
 
-## Repository Structure
+An interactive Power BI dashboard built to analyze business performance.
+
+**Features:**
+- KPI cards: Total Revenue, Order Count, Average Order Value
+- Monthly revenue trend analysis
+- Region-wise and category-wise revenue breakdown
+- Date slicer for interactive filtering
+
+![Power BI Dashboard](visuals/powerbi_dashboard.png)
+
